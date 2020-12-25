@@ -1,0 +1,10 @@
+C:\Users\yo\Desktop\sanket L6\ASE2\GeometryShapes\GeometryShapes\bin\Debug\GeometryShapes.exe.config
+C:\Users\yo\Desktop\sanket L6\ASE2\GeometryShapes\GeometryShapes\bin\Debug\GeometryShapes.exe
+C:\Users\yo\Desktop\sanket L6\ASE2\GeometryShapes\GeometryShapes\bin\Debug\GeometryShapes.pdb
+C:\Users\yo\Desktop\sanket L6\ASE2\GeometryShapes\GeometryShapes\obj\Debug\GeometryShapes.csprojAssemblyReference.cache
+C:\Users\yo\Desktop\sanket L6\ASE2\GeometryShapes\GeometryShapes\obj\Debug\GeometryShapes.Form1.resources
+C:\Users\yo\Desktop\sanket L6\ASE2\GeometryShapes\GeometryShapes\obj\Debug\GeometryShapes.Properties.Resources.resources
+C:\Users\yo\Desktop\sanket L6\ASE2\GeometryShapes\GeometryShapes\obj\Debug\GeometryShapes.csproj.GenerateResource.cache
+C:\Users\yo\Desktop\sanket L6\ASE2\GeometryShapes\GeometryShapes\obj\Debug\GeometryShapes.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\sanket L6\ASE2\GeometryShapes\GeometryShapes\obj\Debug\GeometryShapes.exe
+C:\Users\yo\Desktop\sanket L6\ASE2\GeometryShapes\GeometryShapes\obj\Debug\GeometryShapes.pdb
